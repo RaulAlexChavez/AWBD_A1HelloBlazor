@@ -1,0 +1,29 @@
+﻿@page "/lucky-number"
+
+<PageTitle>Lucky Number</PageTitle>
+
+<h1>Lucky Number</h1>
+
+<p role="status">Your number: @randomNumber</p>
+<p>@text</p>
+<button class="btn btn-primary" @onclick="RollNumber">Roll a number!</button>
+
+@code {
+    private int randomNumber = 0;
+    private string text = "Click to try your luck!";
+
+    private void RollNumber()
+    {
+        randomNumber = Random.Shared.Next(100);
+        if(randomNumber % 3 == 0) {
+            text = "You're lucky today!";
+            return;
+        }
+        if (randomNumber % 2 == 0)
+        {
+            text = "Not so lucky this time...";
+            return;
+        }
+        text = "Hmm, nothing interesting happened. Try again!";
+    }
+}

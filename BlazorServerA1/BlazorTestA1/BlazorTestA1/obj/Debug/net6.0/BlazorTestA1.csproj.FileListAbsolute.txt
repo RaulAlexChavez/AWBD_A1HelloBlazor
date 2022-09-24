@@ -1,0 +1,54 @@
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\bin\Debug\net6.0\appsettings.json
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\bin\Debug\net6.0\BlazorTestA1.staticwebassets.runtime.json
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\bin\Debug\net6.0\BlazorTestA1.exe
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\bin\Debug\net6.0\BlazorTestA1.deps.json
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\bin\Debug\net6.0\BlazorTestA1.runtimeconfig.json
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\bin\Debug\net6.0\BlazorTestA1.dll
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\bin\Debug\net6.0\BlazorTestA1.pdb
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\obj\Debug\net6.0\BlazorTestA1.csproj.AssemblyReference.cache
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\obj\Debug\net6.0\BlazorTestA1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\obj\Debug\net6.0\BlazorTestA1.AssemblyInfoInputs.cache
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\obj\Debug\net6.0\BlazorTestA1.AssemblyInfo.cs
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\obj\Debug\net6.0\BlazorTestA1.csproj.CoreCompileInputs.cache
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\obj\Debug\net6.0\BlazorTestA1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\obj\Debug\net6.0\BlazorTestA1.RazorAssemblyInfo.cache
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\obj\Debug\net6.0\BlazorTestA1.RazorAssemblyInfo.cs
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\obj\Debug\net6.0\scopedcss\bundle\BlazorTestA1.styles.css
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\obj\Debug\net6.0\scopedcss\projectbundle\BlazorTestA1.bundle.scp.css
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\obj\Debug\net6.0\BlazorTestA1.dll
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\obj\Debug\net6.0\refint\BlazorTestA1.dll
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\obj\Debug\net6.0\BlazorTestA1.pdb
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\obj\Debug\net6.0\BlazorTestA1.genruntimeconfig.cache
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\obj\Debug\net6.0\ref\BlazorTestA1.dll
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\VSC Proyects\A1 HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\VSC Proyects\A1 HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\bin\Debug\net6.0\appsettings.json
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\VSC Proyects\A1 HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\bin\Debug\net6.0\BlazorTestA1.staticwebassets.runtime.json
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\VSC Proyects\A1 HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\bin\Debug\net6.0\BlazorTestA1.exe
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\VSC Proyects\A1 HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\bin\Debug\net6.0\BlazorTestA1.deps.json
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\VSC Proyects\A1 HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\bin\Debug\net6.0\BlazorTestA1.runtimeconfig.json
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\VSC Proyects\A1 HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\bin\Debug\net6.0\BlazorTestA1.dll
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\VSC Proyects\A1 HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\bin\Debug\net6.0\BlazorTestA1.pdb
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\VSC Proyects\A1 HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\obj\Debug\net6.0\BlazorTestA1.csproj.AssemblyReference.cache
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\VSC Proyects\A1 HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\obj\Debug\net6.0\BlazorTestA1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\VSC Proyects\A1 HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\obj\Debug\net6.0\BlazorTestA1.AssemblyInfoInputs.cache
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\VSC Proyects\A1 HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\obj\Debug\net6.0\BlazorTestA1.AssemblyInfo.cs
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\VSC Proyects\A1 HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\obj\Debug\net6.0\BlazorTestA1.csproj.CoreCompileInputs.cache
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\VSC Proyects\A1 HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\obj\Debug\net6.0\BlazorTestA1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\VSC Proyects\A1 HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\obj\Debug\net6.0\BlazorTestA1.RazorAssemblyInfo.cache
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\VSC Proyects\A1 HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\obj\Debug\net6.0\BlazorTestA1.RazorAssemblyInfo.cs
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\VSC Proyects\A1 HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\VSC Proyects\A1 HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\VSC Proyects\A1 HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\VSC Proyects\A1 HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\VSC Proyects\A1 HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\obj\Debug\net6.0\scopedcss\bundle\BlazorTestA1.styles.css
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\VSC Proyects\A1 HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\obj\Debug\net6.0\scopedcss\projectbundle\BlazorTestA1.bundle.scp.css
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\VSC Proyects\A1 HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\obj\Debug\net6.0\BlazorTestA1.dll
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\VSC Proyects\A1 HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\obj\Debug\net6.0\refint\BlazorTestA1.dll
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\VSC Proyects\A1 HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\obj\Debug\net6.0\BlazorTestA1.pdb
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\VSC Proyects\A1 HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\obj\Debug\net6.0\BlazorTestA1.genruntimeconfig.cache
+C:\Users\chave\OneDrive\__RA__\UABC\Lic. SISTEMAS COPMUTACIONALES\Semestre 8\Apps web con BD\VSC Proyects\A1 HolaMundo\BlazorTestA1\BlazorTestA1\BlazorTestA1\obj\Debug\net6.0\ref\BlazorTestA1.dll

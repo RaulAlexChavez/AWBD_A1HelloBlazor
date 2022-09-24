@@ -1,0 +1,51 @@
+﻿@page "/calculator"
+
+<h1>Calculadora</h1>
+<p>Número A:</p>
+<input @bind="numeroA"/>
+<p>Número B:</p>
+<input @bind="numeroB"/>
+<br /><br />
+<button class="btn btn-primary" @onclick="Suma">+</button>
+<button class="btn btn-primary" @onclick="Resta">-</button>
+<button class="btn btn-primary" @onclick="Multiplicacion">*</button>
+<button class="btn btn-primary" @onclick="Division">/</button>
+<br />
+<p>= @textResult</p>
+
+@code {
+    private float numeroA;
+    private float numeroB;
+    private float resultado;
+    private string textResult = "";
+
+    private void Suma()
+    {
+        resultado = numeroA + numeroB;
+        textResult = "" + resultado;
+    }
+
+    private void Resta()
+    {
+        resultado = numeroA - numeroB;
+        textResult = "" + resultado;
+    }
+
+    private void Multiplicacion()
+    {
+        resultado = numeroA * numeroB;
+        textResult = "" + resultado;
+    }
+
+    private void Division()
+    {
+        if (numeroB == 0)
+        {
+            resultado = 0;
+            textResult = "No se puede dividir entre 0.";
+            return;
+        }
+        resultado = numeroA / numeroB;
+        textResult = "" + resultado;
+    }
+}
